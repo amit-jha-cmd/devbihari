@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header image](header.png)
+![header image](/header.png)
 
 I'm a full stack developer who is passionate to build quality products to help users engage with platforms/applications seamlessly. Apart from being a __Full Stack Developer__ I'm also a __Machine Learning Practitioner__. My main focus in machine learning is to build deployable machine learning solutions to interesting problems which can be deployed as a __Docker Container__.
 
