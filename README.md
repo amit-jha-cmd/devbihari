@@ -27,4 +27,34 @@ I'm currently working on several projects one of which is to improve student int
 
 Additionally, I'm also spending as much time possible on enhancing my skills around __Django Advanced Concepts__ such as __Django Connect__, __Authentication Protocols__, __Dockerization of machine learning models__. Lastly, I'm spending learning advanced machine learning concepts such as __GANs, NLP, RL etc__.
 
-If you have anything interesting you think we should be working on you can contact me by raising a token in the issues here [/devbihari](https://github.com/devbihari/devbihari/issues). Looking forward to hearing from you.
+## Personal Projects
+
+### NeetQuiz: Full Stack Project
+```Under Development``` ```React-Native``` ```Django``` ```postgres``` ```aws```
+
+Students preparing for neet often struggle to practice biology questions which are often memory based and need key insights. __NeetQuiz__ is the solution for exactly this problem. It is an application developed using React-Native and Django that can be used by students as minimal cost to better prepare for NEET Examination. You can access the frontend application by [clicking here](https://github.com/devbihari/NeetQuizApp)
+
+__Note: This app is under development and will be available on the play store on 25 August.__
+
+### Sign-Language-Translation : Deep Learning Based Project
+```PyTorch``` ```numpy``` ```Pandas```
+
+A Deep Learning solution to detect Indian-Sign-Language from videos. In order to build this solution I collected my own video dataset of India Sign Language. Further I built a LSTM based model that can help detect the signs from video sequences with an accuracy of 64%. 
+
+For more details on this project [click here](https://github.com/devbihari/Sign-Language-Translation)
+
+<!-- ### DashAI
+```PyTorch``` ```React``` ```Electron``` ```Flask``` ```FastAI``` ```Captum``` -->
+
+
+### Productivity Tracker: Full-Stack Project
+```Electron``` ```React``` ```Nodejs``` ```Mongodb```
+
+A unique solution to track the productivity of employees working from home. This unique application can track number of key strokes, the time spent on the application that is running any project that the employee is working on and whether the employee is actually working on the project based upon the analysis of keystrokes, mouse movements and whether the active window in the computer is for the project or not all while __making sure that the privacy of the employee is not violated__
+
+For more details on this project [click here](https://github.com/devbihari/Productivitytracker)
+
+
+## Ambition Project
+### Gloo
+This app is going to redefine how we read books online. More details coming soon.
