@@ -32,7 +32,7 @@ Additionally, I'm also spending as much time possible on enhancing my skills aro
 ### NeetQuiz: Full Stack Project
 ```Under Development``` ```React-Native``` ```Django``` ```postgres``` ```aws```
 
-![Mobile Application](img.jpg)
+<!-- ![Mobile Application]("img.jpg") -->
 
 Students preparing for neet often struggle to practice biology questions which are often memory based and need key insights. __NeetQuiz__ is the solution for exactly this problem. It is an application developed using React-Native and Django that can be used by students as minimal cost to better prepare for NEET Examination.
 
